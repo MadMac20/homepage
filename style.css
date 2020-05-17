@@ -1,0 +1,30 @@
+.main-heading {
+    color:#D9DBBC;
+    background-color: #947EB0;
+}
+
+.hotpink-header {
+    color:#D9DBBC;
+    background-color: #766C7F;
+}
+
+
+a {
+    color: #cf731c !important;
+}
+
+header a {
+    color: #11e1f0; 
+}
+
+.header {
+    background-color: rgb(126, 164, 176);
+}
+
+.secondary-heading {
+    background-color: rgb(155, 160, 88);
+}
+
+.special-heading {
+    color: rgb(198, 230, 195);
+}
